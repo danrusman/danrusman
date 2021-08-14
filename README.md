@@ -1,9 +1,16 @@
-### Hi there 👋
+
+### 01001111 01101001 🤖
+
+I'm a computer science student.
+
+📫 How to reach me: danrusmanr@gmail.com
+
 
 <!--
 **danrusman/danrusman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hello there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
