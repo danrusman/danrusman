@@ -54,4 +54,8 @@
   <img align="center" alt="danrusman-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="danrusman-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
+<p align="left"> 
+       <img src="https://komarev.com/ghpvc/?username=danrusman&label=Profile%20views&color=green&style=flat" alt="danrusman" /> 
+</p>
+
 -->
