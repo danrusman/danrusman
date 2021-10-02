@@ -11,7 +11,7 @@
 </div>
 
   
- ### Languages and tools
+ ### Languages
 <div style="display: inline_block">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img align="center" alt="danrusman-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +25,10 @@
   <img align="center" alt="danrusman-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="danrusman-nl" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
- 
+
+  ### Tools
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/VSCode-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Sublime-454545?style=for-the-badge&logo=sublimetext&logoColor=fe9900">
 </div>
 
   
