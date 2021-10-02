@@ -29,6 +29,12 @@
   ### Tools
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/VSCode-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Sublime-454545?style=for-the-badge&logo=sublimetext&logoColor=fe9900">
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Notepad%2B%2B-547a3a?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A">
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=fafffc">
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=f7941c">
+
+  
 </div>
 
   
