@@ -2,7 +2,7 @@
 # 01001111 01101001 🤖
 
 - :computer: I'm Full stack Developer!
-- 🌱 I’m currently learning cybersecurity and Assembly language
+- 🌱 I’m currently learning cybersecurity, Java and Assembly language
 
 <div>
   <a href="https://github.com/danrusman">
@@ -38,10 +38,14 @@
 </div>
 
 ##
+ 
+  ![blackcat](https://user-images.githubusercontent.com/54821932/135697745-cdd99aec-9861-471b-b529-4bf0cd1aefa8.gif)
+##
+
 <div>
   <img align="center" alt="danrusman-stats" src="https://komarev.com/ghpvc/?username=danrusman&color=green">
 </div>
-  
+
   
   <!--
   <img align="center" alt="danrusman-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
