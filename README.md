@@ -41,7 +41,7 @@
 
 ##
  
-  ![blackcat](https://user-images.githubusercontent.com/54821932/135697745-cdd99aec-9861-471b-b529-4bf0cd1aefa8.gif)
+  ![78401](https://user-images.githubusercontent.com/54821932/135723286-0e93a121-fce7-424e-9bad-d18c64b7468f.gif)
 ##
 
 <div>
