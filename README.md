@@ -1,8 +1,8 @@
 
 # 01001111 01101001 🤖
 
-- :computer: I'm Full stack Developer!
-- 🌱 I’m currently learning cybersecurity, Java and Assembly language
+:computer: I'm Full stack Developer!</br>
+🌱 I’m currently learning cybersecurity, Java and Assembly language</br>
 
 <div>
   <a href="https://github.com/danrusman">
@@ -23,8 +23,6 @@
   <img align="center" alt="danrusman-c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="danrusman-csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="danrusman-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="danrusman-nl" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
   ### Tools
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/VSCode-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -33,6 +31,16 @@
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=fafffc">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=f7941c">
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=black">
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff">
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff">
+
+  ### Technologies  
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=ffffff">
+  <img align="center" alt="danrusman-nl" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Git-413100?style=for-the-badge&logo=jirasoftware&logoColor=F05032">
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=ffffff">
 
   
 </div>
@@ -49,7 +57,6 @@
 </div>
 
 ##
- 
   ![78401](https://user-images.githubusercontent.com/54821932/135723286-0e93a121-fce7-424e-9bad-d18c64b7468f.gif)
 ##
 
