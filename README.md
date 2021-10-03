@@ -10,7 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrusman&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
  ### Languages
 <div style="display: inline_block">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -24,7 +23,7 @@
   <img align="center" alt="danrusman-csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="danrusman-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-  ### Tools
+  ### Tools / IDE
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/VSCode-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Sublime-454545?style=for-the-badge&logo=sublimetext&logoColor=fe9900">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Notepad%2B%2B-547a3a?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A">
@@ -42,12 +41,13 @@
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Git-413100?style=for-the-badge&logo=jirasoftware&logoColor=F05032">
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=ffffff">
 
-
-  ### Exercises
+  ### Exercises / Education
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Codewars-272727?style=for-the-badge&logo=xampp&logoColor=B1361E">
-
-
-  </div>
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white">
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+</div>
 
   ### Connect with me
 <div>
@@ -56,9 +56,8 @@
   <a href="mailto:danrusman@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/2txMBuw3wJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/danrusman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://pt.stackoverflow.com/users/130228/danrusman" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div>
-
-</br>  
 
 ##
 <tbody><tr>
@@ -69,8 +68,6 @@
     </td></tr>
 </tbody>
 Click on the octopus to visit a random profile in the Octo Ring
-
-
 
 ##
   ![78401](https://user-images.githubusercontent.com/54821932/135723286-0e93a121-fce7-424e-9bad-d18c64b7468f.gif)
