@@ -5,9 +5,10 @@
 🌱 I’m currently learning cybersecurity, Java and Assembly language</br>
 
 <div>
+  <justify-content: space-between>
   <a href="https://github.com/danrusman">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danrusman&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrusman&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danrusman&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrusman&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ### Connect with me
@@ -68,10 +69,13 @@
     <td><a href="https://octo-ring.com/">
         <a href="https://octo-ring.com/p/danrusman/random">
         <img src="https://user-images.githubusercontent.com/54821932/135736208-2080cbbd-7e84-40fe-b69d-7d9d584635f1.png" width="10%" alt="random" align="top" title="random profile"></a>
-        <br>
-    </td></tr>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+      Click on the octopus to visit a random GitHub profile in the Octo Ring
+  <!--
+      <br>
+      </td> -->
+  </tr>
 </tbody>
-Click on the octopus to visit a random GitHub profile in the Octo Ring
 
 ##
   ![78401](https://user-images.githubusercontent.com/54821932/135723286-0e93a121-fce7-424e-9bad-d18c64b7468f.gif)
