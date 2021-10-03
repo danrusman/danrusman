@@ -67,7 +67,7 @@
 ##
 <tbody><tr>
     <td><a href="https://octo-ring.com/">
-        <a href="https://octo-ring.com/p/danrusman/random">
+        <a href="https://octo-ring.com/p/danrusman/random" target="_blank">
         <img src="https://user-images.githubusercontent.com/54821932/135736208-2080cbbd-7e84-40fe-b69d-7d9d584635f1.png" width="10%" alt="random" align="top" title="random profile"></a>
         &nbsp;&nbsp;&nbsp;&nbsp;
       Click on the octopus to visit a random GitHub profile in the Octo Ring
