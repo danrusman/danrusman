@@ -42,11 +42,13 @@
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Git-413100?style=for-the-badge&logo=jirasoftware&logoColor=F05032">
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=ffffff">
 
-  
-</div>
 
-  
-##
+  ### Exercises
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Codewars-272727?style=for-the-badge&logo=xampp&logoColor=B1361E">
+
+
+  </div>
+
   ### Connect with me
 <div>
   <a href="https://www.linkedin.com/in/danrusman" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -56,10 +58,24 @@
   <a href="https://github.com/danrusman" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
+</br>  
+
+##
+<tbody><tr>
+    <td><a href="https://octo-ring.com/">
+        <a href="https://octo-ring.com/p/danrusman/random">
+        <img src="https://user-images.githubusercontent.com/54821932/135736208-2080cbbd-7e84-40fe-b69d-7d9d584635f1.png" width="10%" alt="random" align="top" title="random profile"></a>
+        <br>
+    </td></tr>
+</tbody>
+Click on the octopus to visit a random profile in the Octo Ring
+
+
+
 ##
   ![78401](https://user-images.githubusercontent.com/54821932/135723286-0e93a121-fce7-424e-9bad-d18c64b7468f.gif)
 ##
-
+  
 <div>
   <img align="center" alt="danrusman-stats" src="https://komarev.com/ghpvc/?username=danrusman&color=green">
 </div>
