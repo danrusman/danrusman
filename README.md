@@ -1,7 +1,7 @@
 
 # 01001111 01101001 🤖
 
-:computer: I'm Full stack Developer!</br>
+:computer: I would bocome a Full Cycle Developer!</br>
 🌱 I’m currently learning cybersecurity, Java and Assembly language</br>
 
 <div>
