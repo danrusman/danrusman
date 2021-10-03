@@ -33,12 +33,14 @@
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=black">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff">
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff">
-
+  <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white">
+ 
   ### Technologies  
   <img align="center" alt="danrusman-md" src="https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=ffffff">
   <img align="center" alt="danrusman-nl" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Git-413100?style=for-the-badge&logo=jirasoftware&logoColor=F05032">
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=ffffff">
 
   ### Exercises / Education
@@ -47,6 +49,8 @@
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white">
   <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+ 
 </div>
 
   ### Connect with me
