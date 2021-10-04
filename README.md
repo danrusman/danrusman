@@ -22,7 +22,7 @@
 </div>
 
  ### Languages
-<div style="display: inline_block">
+<div>
   <img align="center" alt="danrusman-bst" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="danrusman-c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="danrusman-csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
