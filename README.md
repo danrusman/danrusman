@@ -35,33 +35,33 @@
   <img alt="danrusman-ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
   ### Tools / IDE
-  <img align="center" alt="danrusman-atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=fafffc">
-  <img align="center" alt="danrusman-eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=f7941c">
-  <img align="center" alt="danrusman-idea" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff">
-  <img align="center" alt="danrusman-sqls" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=black">
-  <img align="center" alt="danrusman-netbeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
-  <img align="center" alt="danrusman-nplus" src="https://img.shields.io/badge/Notepad%2B%2B-547a3a?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A">
-  <img align="center" alt="danrusman-pyc" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff">
-  <img align="center" alt="danrusman-rit" src="https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white">
-  <img align="center" alt="danrusman-sl" src="https://img.shields.io/badge/Sublime-454545?style=for-the-badge&logo=sublimetext&logoColor=fe9900">
-  <img align="center" alt="danrusman-vscode" src="https://img.shields.io/badge/VSCode-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="danrusman-atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=fafffc">
+  <img alt="danrusman-eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=f7941c">
+  <img alt="danrusman-idea" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff">
+  <img alt="danrusman-sqls" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=black">
+  <img alt="danrusman-netbeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
+  <img alt="danrusman-nplus" src="https://img.shields.io/badge/Notepad%2B%2B-547a3a?style=for-the-badge&logo=notepadplusplus&logoColor=90E59A">
+  <img alt="danrusman-pyc" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff">
+  <img alt="danrusman-rit" src="https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white">
+  <img alt="danrusman-sl" src="https://img.shields.io/badge/Sublime-454545?style=for-the-badge&logo=sublimetext&logoColor=fe9900">
+  <img alt="danrusman-vscode" src="https://img.shields.io/badge/VSCode-2CA5E0?style=for-the-badge&logo=visualstudiocode&logoColor=white">
  
   ### Technologies  
-  <img align="center" alt="danrusman-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="danrusman-fig" src="https://img.shields.io/badge/Figma-2d2d35?style=for-the-badge&logo=figma&logoColor=F24E1E">
-  <img align="center" alt="danrusman-git" src="https://img.shields.io/badge/Git-413100?style=for-the-badge&logo=jirasoftware&logoColor=F05032">
-  <img align="center" alt="danrusman-gith" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="danrusman-jira" src="https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=ffffff">
-  <img align="center" alt="danrusman-nl" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img align="center" alt="danrusman-xam" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=ffffff">
+  <img alt="danrusman-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img alt="danrusman-fig" src="https://img.shields.io/badge/Figma-2d2d35?style=for-the-badge&logo=figma&logoColor=F24E1E">
+  <img alt="danrusman-git" src="https://img.shields.io/badge/Git-413100?style=for-the-badge&logo=jirasoftware&logoColor=F05032">
+  <img alt="danrusman-gith" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="danrusman-jira" src="https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=ffffff">
+  <img alt="danrusman-nl" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img alt="danrusman-xam" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=ffffff">
 
   ### Education / Exercises
-  <img align="center" alt="danrusman-ca" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
-  <img align="center" alt="danrusman-cw" src="https://img.shields.io/badge/Codewars-272727?style=for-the-badge&logo=xampp&logoColor=B1361E">
-  <img align="center" alt="danrusman-cou" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
-  <img align="center" alt="danrusman-ka" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white">
-  <img align="center" alt="danrusman-ude" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
-  <img align="center" alt="danrusman-yt" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  <img alt="danrusman-ca" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A">
+  <img alt="danrusman-cw" src="https://img.shields.io/badge/Codewars-272727?style=for-the-badge&logo=xampp&logoColor=B1361E">
+  <img alt="danrusman-cou" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
+  <img alt="danrusman-ka" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white">
+  <img alt="danrusman-ude" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+  <img alt="danrusman-yt" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </div>
 
 ##
@@ -82,7 +82,7 @@
 ##
   
 <div>
-  <img align="center" alt="danrusman-stats" src="https://komarev.com/ghpvc/?username=danrusman&color=green">
+  <img alt="danrusman-stats" src="https://komarev.com/ghpvc/?username=danrusman&color=green">
 </div>
 
   
